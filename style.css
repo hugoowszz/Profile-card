@@ -1,0 +1,15 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    height: 70vh;
+    background-color: #d1d5db;
+}
+
+.sidebar-bottom {
+    align-items: end;
+}
+
+.sidebar-content {
+    .
+}
